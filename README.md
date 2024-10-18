@@ -7,12 +7,12 @@ Flocking to the Cloud is a cloud-based, responsive blogging platform designed to
 **Post Management**: Create, edit, and delete blog posts easily.
 **Comment System**: Users can engage with posts through comments.
 
-# Technologies Used
+## Technologies Used
 **Frontend**: HTML, CSS, JavaScript, React.js
 **Backend**: Node.js, Express.js
 **Database**: MongoDB 
 
-# System Architecture
+## System Architecture
 MERN has a 3-tier Architecture system mainly consisting of 3 layers -
 1. Web as front-end tier
 2. Server as the middle tier
