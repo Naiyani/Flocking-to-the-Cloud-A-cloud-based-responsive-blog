@@ -3,8 +3,11 @@ Flocking to the Cloud is a cloud-based, responsive blogging platform designed to
 
 ## Features
 **User Authentication**: Secure sign-up and login processes for users.
+
 **Responsive Design**: Optimized for various screen sizes and devices.
+
 **Post Management**: Create, edit, and delete blog posts easily.
+
 **Comment System**: Users can engage with posts through comments.
 
 ## Technologies Used
