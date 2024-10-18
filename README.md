@@ -12,7 +12,9 @@ Flocking to the Cloud is a cloud-based, responsive blogging platform designed to
 
 ## Technologies Used
 **Frontend**: HTML, CSS, JavaScript, React.js
+
 **Backend**: Node.js, Express.js
+
 **Database**: MongoDB 
 
 ## System Architecture
