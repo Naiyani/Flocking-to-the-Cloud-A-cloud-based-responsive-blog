@@ -1,4 +1,4 @@
-# Flocking to the Cloud:A cloud-based responsive blog
+# Flocking to the Cloud: A cloud-based responsive blog
 Flocking to the Cloud is a cloud-based, responsive blogging platform designed to provide users with an easy and intuitive way to create, manage, and share blog posts. The project utilizes modern web technologies to ensure a seamless experience across devices, whether on desktop or mobile.
 
 ## Features
